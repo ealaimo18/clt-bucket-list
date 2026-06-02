@@ -1,3 +1,6 @@
 node_modules/
-data/
 .env
+backend/data/
+frontend/dist/
+frontend/node_modules/
+backend/node_modules/
